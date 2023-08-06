@@ -1,5 +1,7 @@
-# PyTorch
+# Person Detection using PyTorch Faster RCNN
 
-Last updated: Sep 27th 2022
+This repo was created to train a person detection task.
 
-This is the GitHub repository that acts as the default Workspace for Paperspace Gradient's PyTorch runtime.
+to run this notebook, make sure you do and read the followings:
+1. Run `python installLib.py` at your terminal to install all the necessary library.
+2. This model was trained in paperspace gradient public dataset which can be accessed [here](https://docs.paperspace.com/gradient/data/).
